@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e65babd6c3d031100ce7e72bb00131e9" label="APIHealth" max_length="40" name="x_58872_needit_apihealth" type="collection">
+        <element label="APIName" max_length="100" name="apiname" type="string"/>
+        <element label="Base API Path" max_length="100" name="base_api_path" type="string"/>
+        <element label="Status" max_length="40" name="status" type="string"/>
+        <element label="Status code" max_length="40" name="status_code" type="string"/>
+    </element>
+</database>
